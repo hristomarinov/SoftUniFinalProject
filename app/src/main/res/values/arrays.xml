@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options_array_short">
+        <item>Choose from Gallery</item>
+    </string-array>
+    <string-array name="options_array">
+        <item>Choose from Gallery</item>
+        <item>Take Photo</item>
+    </string-array>
+</resources>
